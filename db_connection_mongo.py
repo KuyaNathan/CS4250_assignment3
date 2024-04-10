@@ -3,7 +3,7 @@
 # FILENAME: db_connection_mongo.py
 # SPECIFICATION: creates, updates, and queries MongoDB database tables
 # FOR: CS 4250- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: about 2-3 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with
